@@ -8,6 +8,8 @@
 
 # Please be sure to type your Tasks carefully when marking them as complete or removing them
 
+# You can find my code on Github at the link here: https://github.com/logicalshroom/todo_list_application/
+
 '''
 
 ### Project Requirements ###
